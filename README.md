@@ -51,7 +51,7 @@ To browse or contribute to this repository:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/LynwoodHS/engineering-program.git
+   git clone https://github.com/stcline/LHS_Engineering_Code_Archive
    ```
 2. **Navigate to Your Area of Interest**
    - Explore the relevant directory (PLTW, VEX, or Manufacturing).
