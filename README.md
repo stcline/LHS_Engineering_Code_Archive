@@ -1,4 +1,4 @@
-# Lynwood High School Engineering Program
+# :robot: Lynwood High School Engineering Program
 
 Welcome to the official GitHub repository for the **Lynwood High School Engineering Program**! This space is dedicated to archiving student code, collaborating on projects, and showcasing outstanding work from our PLTW Engineering Classes, VEX Robotics Team, and Manufacturing Team.
 
