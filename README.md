@@ -96,21 +96,3 @@ Each semester, we feature exceptional projects here. If your work is selected, i
 
 > _“Engineering is not only study of 45 subjects but it is moral studies of intellectual life.”_  
 > — Prakhar Srivastav
-
----
-
-*For more on writing effective README files, see [freeCodeCamp’s guide][1] and [Hatica’s best practices][3].*
-
-[1]: https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
-[3]: https://www.hatica.io/blog/best-practices-for-github-readme/
-
-[1] https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
-[2] https://github.com/kera-cudmore/readme-examples
-[3] https://www.hatica.io/blog/best-practices-for-github-readme/
-[4] https://tilburgsciencehub.com/topics/collaborate-share/share-your-work/content-creation/readme-best-practices/
-[5] https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
-[6] https://github.com/jehna/readme-best-practices
-[7] https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/
-[8] https://webstandards.ca.gov/2023/04/19/github-best-practices/
-[9] https://www.sitepoint.com/github-profile-readme/
-[10] https://www.reddit.com/r/programming/comments/l0mgcy/github_readme_templates_creating_a_good_readme_is/
